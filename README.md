@@ -1,3 +1,6 @@
+## Youtube-clone project
+This is one of the first clone projects I did with React js, the project link is given here: https://clone-54e3e.web.app. It only contains frontend to enhance concepts from React js.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
